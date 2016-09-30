@@ -1,4 +1,4 @@
-untrusted comment: signature from minisign secret key
-RWRAjIHcAnNyEwuOqtjciKlSkbVIz3KUwu0KnH7SwuImkLjxxK7eqWHMUBa4ciADhjAPEjfBBzsCd8lD9sCU2wd0yEjFvHOcTw4=
-trusted comment: timestamp:1474831338	file:steem_v0.14.2_fullnode_mingw_x64.zip
-i7HSc3kY2jcYv+vQS73gnch4abN244xYh6AuUFiPO05bCKIATrPlMAELJ9rvdpYjBCOTTZ/X5lIV9Z4PK6cMDg==
+untrusted comment: verify with https://jedisct1.github.io/minisign/
+RWRAjIHcAnNyE3B9QZtaxpTauGS9Aj2z720R4yRSrAqVVDokY1CwOIIlrRgY1Qdt6uETHrv7sNIl4BzDXny1wYVbJgznm9mDCwQ=
+trusted comment: timestamp:1475238753	file:steem_v0.14.2_fullnode_mingw_x64.zip
+b6fgVbxv95MXehnFLZWM3ASHmEAyvnRnEr4Vong23LPDqiusUefP3dN8IdSEmDwylxrHuyERb0c1P69bniGEDg==
